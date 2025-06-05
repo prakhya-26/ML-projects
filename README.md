@@ -46,8 +46,4 @@ A machine learning model to identify customers likely to churn from a bank's ser
 
 ---
 
-## 📌 How to Use
 
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
