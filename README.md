@@ -12,13 +12,7 @@ Welcome to my project repository featuring three of my key AI and data science p
 
 ---
 
-### 2. 📊 Interactive Dataset Analyzer Dashboard
-
-📌 [View Project Folder](./interactive-dashboard)
-
----
-
-### 3. 🏦 Customer Churn Prediction for Banking Sector
+### 2. 🏦 Customer Churn Prediction for Banking Sector
 
 📌 [View Project Folder](./Customer_Churn/churn.ipynb)
 
