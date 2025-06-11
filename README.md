@@ -36,7 +36,7 @@ An end-to-end interactive dashboard to perform real-time data exploration and vi
 ### 3. 🏦 Customer Churn Prediction for Banking Sector
 **Technologies:** Python, Scikit-learn, Logistic Regression, SVM, Random Forest  
 **Status:** Completed | **Accuracy:** ~80%  
-📌 [View Project Folder](./customer-churn-prediction)
+📌 [View Project Folder](./churn.ipynb)
 
 A machine learning model to identify customers likely to churn from a bank's services and enhance retention strategies.
 
