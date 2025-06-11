@@ -8,7 +8,7 @@ Welcome to my project repository featuring three of my key AI and data science p
 
 ### 1. 🐛 AI-Powered Pest Detection in Cashew Crops
 
-📌 [View Project Folder](./crop_pest.ipybn)
+📌 [View Project Folder](./Crop_Pest_Detection/crop_pest.ipybn)
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to my project repository featuring three of my key AI and data science p
 
 ### 3. 🏦 Customer Churn Prediction for Banking Sector
 
-📌 [View Project Folder](./churn.ipynb)
+📌 [View Project Folder](./Customer_Churn/churn.ipynb)
 
 
 
