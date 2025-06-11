@@ -1,4 +1,4 @@
-### 1. AI-Powered Pest Detection in Cashew Crops
+### ⁜ AI-Powered Pest Detection in Cashew Crops
 **Technologies:** CNN, TensorFlow, Neural Networks  
 **Status:** Completed | **Accuracy:** ~75%  
 
