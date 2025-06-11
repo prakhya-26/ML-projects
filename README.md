@@ -8,7 +8,7 @@ Welcome to my project repository featuring three of my key AI and data science p
 
 ### 1. 🐛 AI-Powered Pest Detection in Cashew Crops
 
-📌 [View Project Folder](./ai-pest-detection-cashew)
+📌 [View Project Folder](./crop_pest.ipybn)
 
 ---
 
